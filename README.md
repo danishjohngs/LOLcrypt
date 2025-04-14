@@ -20,7 +20,9 @@ Brute-force mode tries all 25 possible shifts to crack the cipher.
 ## 🐍Installation
 ```
 git clone https://github.com/danishjohngs/LOLcrypt.git
+
 cd LOLcrypt
+
 python3 LOLcrypt.py
 ```
 
