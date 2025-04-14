@@ -11,12 +11,17 @@ This is a simple Python tool that lets you encrypt, decrypt, and brute-force dec
 
 ✅ Supports uppercase, lowercase, and symbols
 ```
-
 ## ⚙️ How It Works:
 ```
 Each letter is shifted by a fixed number (the key).
 
 Brute-force mode tries all 25 possible shifts to crack the cipher.
+```
+## 🐍Installation
+```
+git clone https://github.com/danishjohngs/LOLcrypt.git
+cd LOLcrypt
+python3 LOLcrypt.py
 ```
 
 ## ▶️ Usage:
